@@ -1,0 +1,63 @@
+Nickname,PropID,Amount,Type,Due,Paid,Notes
+High,29,16.30,Sewer,20140430,NO,"WI Rapids Water and Light, Tenant's Bill Brooke Looking into"
+High,29,14.10,Water,20140430,NO,"WI Rapids Water and Light, Tenant's Bill Brooke Looking into"
+High,29,59.53,Electric,20140430,NO,"WI Rapids Water and Light, Tenant's Bill Brooke Looking into"
+West,25,397.81,Gas,20140428,Yes,WPS Gas
+Marathon,0,267.69,Gas,20140428,Yes,WPS Gas
+Marathon,7,23.81,Gas,20140428,Yes,WPS Gas
+Marathon,7,47.41,Electric,20140428,Yes,WPS Electric
+Marathon,1,65.55,Gas,20140428,Yes,WPS Gas
+Marathon,1,92.99,Electric,20140428,Yes,WPS Electric
+Marathon,0,11.73,Electric,20140428,Yes,WPS Electric
+Marathon,6,42.04,Gas,20140428,Yes,WPS Gas
+Marathon,6,117.93,Electric,20140428,Yes,WPS Electric
+Marathon,8,16.52,Gas,20140428,Yes,WPS Gas
+Marathon,8,46.49,Electric,20140428,Yes,WPS Electric
+Marathon,5,41.44,Gas,20140428,Yes,WPS Gas
+Marathon,5,66.39,Electric,20140428,Yes,WPS Electric
+Marathon,4,48.24,Electric,20140428,Yes,WPS Electric
+Marathon,5,41.44,Gas,20140428,Yes,WPS Gas
+Marathon,5,66.39,Electric,20140428,Yes,WPS Electric
+Marathon,3,89.19,Electric,20140428,Yes,WPS Electric
+Edgar,42,279.50,Electric,20140428,Yes,WPS Electric
+Edgar,39,5.17,Gas,20140428,Yes,WPS Gas
+Edgar,40,16.04,Gas,20140428,Yes,WPS Gas
+East Blodget,10,109.42,Gas,20140428,Yes,We Energies Gas
+East Blodget,9,43.00,Gas,20140428,Yes,We Energies Gas
+Cherry,13,116.00,Gas,20140428,Yes,We Energies Gas
+Cherry,14,144.73,Gas,20140428,Yes,We Energies Gas
+Vine,15,231.92,Gas,20140428,Yes,We Energies Gas
+South Central,43,432.80,Gas,20140428,Yes,We Energies Gas
+West Blodget,44,119.00,Gas,20140428,Yes,We Energies Gas
+High,29,121.82,Gas,20140428,Yes,We Energies Gas
+East Blodget,9,55.10,Electric,20140428,Yes,Marshfield Utilities Electric
+East Blodget,9,10.79,Water,20140428,Yes,Marshfield Utilities Water
+East Blodget,9,23.70,Sewer,20140428,Yes,Marshfield Utilities Sewer
+East Blodget,9,1.93,FPD,20140428,Yes,Marshfield Utilities FPD
+East Blodget,10,47.26,Electric,20140428,Yes,Marshfield Utilities Electric
+East Blodget,10,10.79,Water,20140428,Yes,Marshfield Utilities Water
+East Blodget,10,23.70,Sewer,20140428,Yes,Marshfield Utilities Sewer
+East Blodget,10,1.93,FPD,20140428,Yes,Marshfield Utilities FPD
+Vine,47,372.56,Electric,20140428,Yes,Marshfield Utilities Electric
+Vine,47,38.15,Water,20140428,Yes,Marshfield Utilities Water
+Vine,47,61.43,Sewer,20140428,Yes,Marshfield Utilities Sewer
+Vine,47,6.26,FPD,20140428,Yes,Marshfield Utilities FPD
+Cherry,13,92.14,Electric,20140428,Yes,Marshfield Utilities Electric
+Cherry,45,46.70,Water,20140428,Yes,Marshfield Utilities Water
+Cherry,45,73.22,Sewer,20140428,Yes,Marshfield Utilities Sewer
+Cherry,45,4.03,FPD,20140428,Yes,Marshfield Utilities FPD
+Cherry,14,49.97,Electric,20140428,Yes,Marshfield Utilities Electric
+West Blodget,11,30.89,Electric,20140428,Yes,Marshfield Utilities Electric
+West Blodget,44,6.80,Water,20140428,Yes,Marshfield Utilities Water
+West Blodget,44,18.20,Sewer,20140428,Yes,Marshfield Utilities Sewer
+West Blodget,44,3.99,FPD,20140428,Yes,Marshfield Utilities FPD
+West Blodget,12,31.31,Electric,20140428,Yes,Marshfield Utilities Electric
+3rd,47,31.03,Water,20140428,Yes,Marshfield Utilities Water
+3rd,47,51.61,Sewer,20140428,Yes,Marshfield Utilities Sewer
+3rd,47,5.36,FPD,20140428,Yes,Marshfield Utilities FPD
+South Central,43,7.44,FPD,20140415,Yes,Marshfield Utilities FPD
+South Central,43,36.95,Water,20140415,Yes,Marshfield Utilities Water
+South Central,43,59.78,Sewer,20140415,Yes,Marshfield Utilities Sewer
+South Central,43,140.54,Electric,20140415,Yes,Marshfield Utilities Electric
+South Central,37,28.09,Electric,20140415,Yes,Marshfield Utilities Electric
+South Central,34,38.34,Electric,20140415,Yes,Marshfield Utilities Electric

@@ -1,0 +1,113 @@
+#header {
+    /*will be used for page title*/
+    background-color: black;
+    color:white;
+    font-family: serif;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#footer {
+	font-size: .7em;
+	text-align: right;
+	background-color:black;
+	color:white;
+	clear:both;
+	padding: 5px;
+}
+
+.uiMenu {
+	/*will be used for UI Query Implementation, z-index of 0 to set page bg as well.*/
+    font-family: serif;
+    width:300px;
+    padding-left: 10px;    
+}
+
+#nav{
+	padding: 0;
+	background-color:white;
+	margin: 20px 0px 0px 0px;
+}
+#nav li{
+	display: inline;
+}
+
+#nav li a {
+    background-color: green;
+	color: black;
+	padding: 10px 10px;
+	text-decoration: none;
+	border-radius: 6px 6px 0px 0px;
+}
+
+#nav li a:hover {
+    color: black;
+    cursor: pointer;
+}
+
+.linkBlock{
+	background-color: black;
+	color: white;
+	height:400px;
+	width:300px;
+	float:left;
+	padding:5px;
+	border-radius: 6px 6px 0px 0px;
+}
+#tabFunctions li {
+	color:"green";
+}
+#tabFunctions li a {
+	color:"green";
+}
+
+#tabFunctions li a:hover{
+	background-color: orange;
+	cursor: pointer;
+}
+#d3ChartsID{
+	background-color: #ffffff;
+	height:300px;
+    width:100%;
+}
+#commentsID{
+	background-color: white;
+	height:100px;
+    width:100%;
+    
+	/*not used yet, will be used for comments*/
+}
+
+#pMain {
+	/*example for named pieces*/
+	background-color: white;
+	text-align: left;
+	color: green;	
+}
+
+.selectClass {
+	margin-right: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.bar{
+	display: inline-block;
+	width: 20px;
+	height: 75px;
+	background-color: gray;
+	border: 1px solid black;
+	padding:10px;
+	margin: 1px;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
