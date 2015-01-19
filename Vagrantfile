@@ -10,8 +10,8 @@ virtualenv --no-site-packages .
 source /vagrant/bin/activate
 pip install -r /vagrant/requirements.txt
 which python
-python /vagrant/housing/manage.py runserver &
-echo "We're good, app running on 0.0.0.0:5000"
+python /vagrant/housing/manage.py runserver > /tmp/housing.log 2>&1 &
+echo "App running on 0.0.0.0:5000, vagrant ssh; tail -f /tmp/housing.log; hit it with http://localhost:5000"
 SCRIPT
 
 # Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
